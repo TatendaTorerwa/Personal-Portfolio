@@ -22,6 +22,14 @@ https://github.com/TatendaTorerwa/Personal-Portfolio.git
 
 2. Open `index.html` in your browser.
 
+## Deployment
+
+You can view my portfolio live at the following link:
+
+[View Portfolio on Netlify](https://iridescent-tanuki-5cde46.netlify.app/)
+
+---
+
 ## 📩 Contact Me
 - **Email**: [ttorerwa01@gmail.com](mailto:ttorerwa01@gmail.com)
 - **LinkedIn**: [Tatenda Torerwa](https://www.linkedin.com/in/tatenda-torerwa-14a592277/)
